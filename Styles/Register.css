@@ -1,0 +1,31 @@
+body {
+    background-image:  url(../Images/bg.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+input{
+    width: auto;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: lightskyblue;
+}
+input[type=submit]{
+    background-color: lightgreen;
+    border-color: green;
+    margin-left: 45px;
+
+}
+.formContainer{
+    display: block;
+    width: min-content;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: auto;
+}
+
