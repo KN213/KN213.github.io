@@ -32,6 +32,7 @@ body, html{
     margin: 10px;
     padding: 10px;
     flex: 190px;
+
 }
 .Grid {
     width: 95%;
@@ -46,6 +47,7 @@ body, html{
     padding: 1em;
     border-radius: 10px;
     color: gainsboro;
+
 }
 .ImgContainer {
     display: block;
@@ -129,6 +131,7 @@ audio{
 }
 .eventsContainer{
     background-color: white;
+    color: black;
     width: 500px;
     height: 100px;
     text-align: center;
